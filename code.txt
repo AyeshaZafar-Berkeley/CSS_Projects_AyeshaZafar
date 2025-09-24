@@ -3,6 +3,7 @@ cd CSS_Projects_AyeshaZafar
 mkdir Project_1 
 touch code.txt
 vim code.txt
+git add code.txt 
 git commit 
 git push 
 
