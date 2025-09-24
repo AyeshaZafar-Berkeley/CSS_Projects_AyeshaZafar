@@ -1,0 +1,9 @@
+git clone https://github.com/AyeshaZafar-Berkeley/CSS_Projects_AyeshaZafar.git
+cd CSS_Projects_AyeshaZafar
+mkdir Project_1 
+touch code.txt
+vim code.txt
+git commit 
+git push 
+
+
